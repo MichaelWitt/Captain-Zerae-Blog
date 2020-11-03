@@ -1,2 +1,3 @@
 # Captain-Zerae-Blog
-A blog created with Node.js, Express, and MongoDB, welcome! 
+My high-functioning and sensationally futuristic blog! This blog was created with Node.js, Express, and MongoDB. Welcome!
+
